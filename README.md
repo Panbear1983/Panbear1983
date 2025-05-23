@@ -7,7 +7,7 @@ To chasing down threats like a cyber sentinel®.
 
 Three years deep, fueled by the grind,  
 With hands-on labs, I started to find🔎
-Following the NIST framework, solving cyber crime 
+Following the NIST framework, solving cyber crime
 It was more than just learning. It is more about the mission over time.  
 
 From vuln scans to threat detection flair,  
