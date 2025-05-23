@@ -32,7 +32,7 @@ I’ve found my mission—and it feels just right. 🌐
 [<img align="left" alt="Peter W Pan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Peter W Pan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Peter W Pan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Peter W Pan | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />][portfolio]  
+[<img align="left" alt="Peter W Pan | Portfolio" width="22px" src="https://unpkg.com/feather-icons/dist/icons/feather.svg" />][portfolio]  
 
 
 [youtube]: https://www.youtube.com/c/___________
