@@ -3,7 +3,7 @@
 Once a designer with pixels in hand,  
 I took a sharp turn toward >terminal_ land.  
 From machines learning in Python and SQL,  
-To chasing down threats like a cyber sentinel®.   
+Chasing down the twilight of the tech rabbit hole.   
 
 Three years deep, fueled by the grind,  
 With hands-on labs, I started to find🔎,  
