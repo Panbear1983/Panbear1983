@@ -6,14 +6,14 @@ From machine learning in Python and SQL,
 Pursuing data to cyber of the tech rabbit hole.   
 
 Three years deep, fueled by the learning grind,  
-With hands-on lab projects, I started to find🔎,  
+With hands-on lab projects, I started to find,  
 Following the NIST framework, solving cyber crime  
 It was more than just learning, but the mission over time. 
 
 From vuln scans to threat detection flair,  
 Each project builds with purpose and care.  
 In a world gets more danger byte by byte,  
-I’ve found my calling and it feels just right. 🌐
+I’ve found my calling and it feels just right🕵️‍♂️.  
 
 
 ## ⚠️ Vulnerability Management Projects
