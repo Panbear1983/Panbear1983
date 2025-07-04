@@ -5,7 +5,7 @@ I took a sharp turn toward the >terminal_ land.
 From machine learning in Python and SQL,  
 Pursuing data to cyber of the tech rabbit hole.   
 
-Three years deep, fueled by the learning grind,  
+Four years deep, fueled by the learning grind,  
 With hands-on lab projects, I started to find,  
 Following the NIST framework, solving cyber crime  
 It was more than just learning, but the mission over time. 
