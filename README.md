@@ -3,7 +3,7 @@
 Once a designer with pixels in hand,  
 I took a sharp turn toward the >terminal_ land.  
 From machine learning in Python and SQL,  
-Pursuing data to cyber of the tech rabbit hole.   
+Deep into the cyber and tech's rabbit hole.   
 
 Four years deep, fueled by the learning grind,  
 With hands-on lab projects, I started to find,  
