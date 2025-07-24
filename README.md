@@ -20,6 +20,7 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 
 - **[Vulnerability Management Program Implementation](https://github.com/Panbear1983/Cyber_Vulnerability_Management_Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[STIG Implementation (Tenable Scan STIG Framework)]([https://github.com/joshcybertest/programmatic-vulnerability-remediations](https://github.com/Panbear1983/Cyber_Vulnerability_Management_Program/tree/main/STIGS))**
 
 ## 🚨 Threat Hunting and Security Operations
 
