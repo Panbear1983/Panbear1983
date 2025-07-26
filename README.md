@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a>'s IT and Cybersecurity 🔐 + Data Science Projects
+# <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a>'s IT and Cybersecurity 🔐 + Data Science Projects 
 
 Once a designer with pixels in hand,  
 I took a sharp turn toward the >terminal_ land.  
@@ -30,15 +30,11 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Peter W Pan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Peter W Pan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Peter W Pan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Peter W Pan | Portfolio" width="22px" src="https://unpkg.com/feather-icons/dist/icons/feather.svg" />][portfolio]  
 
 
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://www.linkedin.com/in/peter-w-pan-49a961200/
 [portfolio]: https://www.peterwpan.com  
 
 <!--
