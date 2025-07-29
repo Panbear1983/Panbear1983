@@ -16,7 +16,7 @@ In a world gets more danger byte by byte,
 I’ve found my calling and it feels just right🕵️‍♂️.  
 
 ## Area of Focuses
-**🔍︎ [Cybersecurity Domain](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
+**🔍︎ [Cybersecurity (Infrastructure Engineer)](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
 **🧠 [Machine_Learning_(Data Science)](https://github.com/Panbear1983/Machine_Learning_Projects)** <br>
 **🎨 [Digital UI/UX (Marketing)](https://www.peterwpan.com)**
 
