@@ -19,6 +19,12 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 **🔍︎ [Cybersecurity Portfolio](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
 **🧠 [Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)**
 
+## Certifications
+**🔖 [ComptIA Security + (In Progress...)]** <br>
+**Google [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
+**🖧 [Sysco Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
