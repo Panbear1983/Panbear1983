@@ -15,17 +15,6 @@ Each project builds with purpose and care.
 In a world gets more danger byte by byte,  
 I’ve found my calling and it feels just right🕵️‍♂️.  
 
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/Panbear1983/Cyber_Vulnerability_Management_Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[STIG Implementation (Tenable Scan STIG Framework)](https://github.com/Panbear1983/Cyber_Vulnerability_Management_Program/tree/main/STIGS)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
 <hr/>
 
 ## 🤳 Connect With Me
