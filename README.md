@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a>'s IT and Cybersecurity 🔐 + Data Science Projects 
 
 Once a designer with pixels in hand,  
-I took a sharp turn toward the >terminal_ land.  
+I took a sharp turn toward the _`>terminal_`_ land.  
 From machine learning in Python and SQL,  
 Deep into the cyber and tech's rabbit hole.   
 
