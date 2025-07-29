@@ -20,8 +20,9 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 **🧠 [Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)**
 
 ## Certifications
-**🔖 [ComptIA Security + (In Progress...)]** <br>
-**Google [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
+**<img width="140" height="30" alt="image" src="https://github.com/user-attachments/assets/58a7b4cf-af53-4915-8b33-8643c7c80aa1" />
+ [ComptIA Security + (In Progress...)]** <br>
+**𝐆 [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
 **🖧 [Sysco Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
 
 
