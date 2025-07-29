@@ -17,7 +17,7 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 
 ## Area of Focuses
 **🔍︎ [Cybersecurity Portfolio](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
-**🧠 [Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)**
+**🧠 [Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)** <br>
 **🎨 [Digital UI/UX Portfolio](https://www.peterwpan.com)**
 
 ## Certifications
