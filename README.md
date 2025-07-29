@@ -3,12 +3,12 @@
 Once a designer with pixels in hand,  
 I took a sharp turn toward the _`>terminal_`_ land.  
 From machine learning in Python and SQL,  
-Deep into the cyber and tech's rabbit hole.   
+Falling into the cybersecurity's rabbit hole.   
 
 Four years deep, fueled by the learning grind,  
 With hands-on lab projects, I started to find,  
 Following the NIST framework, solving cyber crime  
-It was more than just learning, but the mission over time. 
+It was more than just learning, but missions over time. 
 
 From vuln scans to threat detection flair,  
 Each project builds with purpose and care.  
