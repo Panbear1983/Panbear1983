@@ -16,7 +16,7 @@ In a world gets more danger byte by byte,
 I’ve found my calling and it feels just right🕵️‍♂️.  
 
 ## Area of Focuses
-**🔍︎ [Cybersecurity Portfolio](https://github.com/Panbear1983/Cybersecurity_Projects)**
+**🔍︎ [Cybersecurity Portfolio](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
 **🧠 [Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)**
 
 <hr/>
