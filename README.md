@@ -20,10 +20,9 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 **🧠 [Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)**
 
 ## Certifications
-**<img width="140" height="30" alt="image" src="https://github.com/user-attachments/assets/58a7b4cf-af53-4915-8b33-8643c7c80aa1" />
- [ComptIA Security + (In Progress...)]** <br>
-**𝐆 [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
-**🖧 [Sysco Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
+**<img width="140" height="30" alt="image" src="https://github.com/user-attachments/assets/58a7b4cf-af53-4915-8b33-8643c7c80aa1" /> [Security + (In Progress...)]** <br>
+**<img width="386" height="131" alt="image" src="https://github.com/user-attachments/assets/26ddb5b7-b1de-4933-91aa-594e698fbda8" /> [Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
+**<img width="173" height="40" alt="image" src="https://github.com/user-attachments/assets/31982611-91e9-4b92-9abb-1a80d9485717" /> [Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
 
 
 <hr/>
