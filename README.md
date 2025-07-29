@@ -15,7 +15,9 @@ Each project builds with purpose and care.
 In a world gets more danger byte by byte,  
 I’ve found my calling and it feels just right🕵️‍♂️.  
 
-- **[Vulnerability Management Program Implementation](https://github.com/Panbear1983/Cyber_Vulnerability_Management_Program/tree/main)**
+## Area of Focuses
+- **[Cybersecurity Portfolio](https://github.com/Panbear1983/Cybersecurity_Projects)**
+- **[Machine_Learning_Portfolio](https://github.com/Panbear1983/Machine_Learning_Projects)**
 
 <hr/>
 
