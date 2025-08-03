@@ -21,7 +21,7 @@ I’ve found my calling and it feels just right🕵️‍♂️.
 **🎨 [Digital UI/UX (Marketing)](https://www.peterwpan.com)**
 
 ## Certifications
-**CompTIA [Security + (In Progress...)]** <br>
+**CompTIA [Security + (In Progress...)](https://www.credly.com/earner/earned/badge/af63ab88-bb91-47c8-b390-0bbba3817702)** <br>
 **Google [Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
 **CISCO [Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
 
