@@ -2,7 +2,10 @@
 
 Driven by a passion for solving complex problems through data analytics, relational databases, and cutting-edge security practices. Four years deep, I’m immersed in hands-on projects like vulnerability scans, threat detection, and network attack simulations, leveraging tools like Azure Sentinel and Microsoft Defender for Endpoint to secure digital assets. Committed to building robust defenses, I’m eager to connect with others to fortify the digital frontier. 🕵️‍♂️ awesome glad you're happy with this version come back anytime for those tweaks I'll be here want help with anything else on your LinkedIn profile
 
-## Area of Focuses
+## Cybersecurity Portfolio
+
+
+## Background and Journey
 **🔍︎ [Cybersecurity (Infrastructure Engineer)](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
 **🧠 [Machine_Learning_(Data Science)](https://github.com/Panbear1983/Machine_Learning_Projects)** <br>
 **🎨 [Digital UI/UX (Marketing)](https://www.peterwpan.com)**
