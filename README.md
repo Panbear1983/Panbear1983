@@ -1,19 +1,6 @@
 # <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a>'s IT and Cybersecurity 🔐 + Data Science Projects 
 
-Once a designer with pixels in hand,  
-I took a sharp turn toward the _`>terminal_`_ land.  
-From machine learning in Python and SQL,  
-Falling into the cybersecurity's rabbit hole.   
-
-Four years deep, fueled by the learning grind,  
-With hands-on lab projects, I started to find,  
-Following the NIST framework, solving cyber crime  
-It was more than just learning, but missions over time. 
-
-From vuln scans to threat detection flair,  
-Each project builds with purpose and care.  
-In a world gets more danger byte by byte,  
-I’ve found my calling and it feels just right🕵️‍♂️.  
+Once a digital UI designer crafting pixels, I’m now a Security+ certified cybersecurity engineer, driven by a passion for solving complex problems through data analytics, relational databases, and cutting-edge security practices. Four years deep, I’m immersed in hands-on projects like vulnerability scans, threat detection, and network attack simulations, leveraging tools like Azure Sentinel and Microsoft Defender for Endpoint to secure digital assets. Committed to building robust defenses, I’m eager to connect with others to fortify the digital frontier. 🕵️‍♂️ awesome glad you're happy with this version come back anytime for those tweaks I'll be here want help with anything else on your LinkedIn profile
 
 ## Area of Focuses
 **🔍︎ [Cybersecurity (Infrastructure Engineer)](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
