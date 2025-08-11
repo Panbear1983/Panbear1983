@@ -2,8 +2,8 @@
 
 Driven by a passion for solving complex problems through data analytics, relational databases, and cutting-edge security practices. Four years deep, I’m immersed in hands-on projects like vulnerability scans, threat detection, and network attack simulations, leveraging tools like Azure Sentinel and Microsoft Defender for Endpoint to secure digital assets. Committed to building robust defenses, I’m eager to connect with others to fortify the digital frontier. 🕵️‍♂️
 
-## Cybersecurity Portfolio
 <hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
+## Cybersecurity Portfolio
 ### 🎯 Threat Hunting  
 **• [Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md)**
 
