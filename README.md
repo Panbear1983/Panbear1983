@@ -6,7 +6,7 @@ Driven by a passion for solving complex problems through data analytics, relatio
 
 ## Cybersecurity Portfolio  
 **🎯 Threat Hunting**  
-* *** [Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md)***  
+* **[Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md)**  
 
 **⚔️ Vulnerability Management**  
 
