@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a>'s IT and Cybersecurity 🔐 + Data Science Projects 
 
-Driven by a passion for solving complex problems through data analytics, relational databases, and cutting-edge security practices. Four years deep, I’m immersed in hands-on projects like vulnerability scans, threat detection, and network attack simulations, leveraging tools like Azure Sentinel and Microsoft Defender for Endpoint to secure digital assets. Committed to building robust defenses, I’m eager to connect with others to fortify the digital frontier. 🕵️‍♂️
+My github projects consisted all the efforts from data science proejcts to cybersecurity activities like vulnerability scans, threat detection, and network attack simulations, leveraging tools like Azure Sentinel and Microsoft Defender for Endpoint to secure digital assets. Committed to building robust defenses, I’m eager to connect with others to fortify the digital frontier. 🕵️‍♂️
 
 <hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
 
