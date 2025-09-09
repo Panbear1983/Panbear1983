@@ -7,7 +7,8 @@ My github projects consisted all the efforts from data science proejcts to cyber
 ## Cybersecurity Portfolio  
 
 **🎯 Threat Hunting**  
-* **[Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md)**  
+* **[Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md)**
+* **[Papertrail Insider HR Tamper](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md)**  
 
 **⚔️ Vulnerability Management**  
 
