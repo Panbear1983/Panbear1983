@@ -1,7 +1,9 @@
 # <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a> Tech Rabbit Hole 🕳️ (IT & Cybersecurity 🔐 + Data Science Projects 📊 + Automation Orchastration 🤖)
  
 
-My github projects consisted all the efforts from data science proejcts to cybersecurity activities like vulnerability scans, threat detection, and network attack simulations, leveraging tools like Azure Sentinel and Microsoft Defender for Endpoint to secure digital assets. Committed to building robust defenses, I’m eager to connect with others to learn and grow in the cyber space. 🕵️‍♂️
+My GitHub projects span data science to cybersecurity, but honestly, I've been diving deep into vibe coding lately. There's something damn satisfying about leveraging Cursor to orchestrate automation agents that actually work in the real world. 
+
+From vulnerability scans to network attack simulations using Azure Sentinel and Microsoft Defender, I'm building systems that minimizing few clicks and hassles in my life - agents that parses and make decisions, not just follow scripts. Always eager to connect with others who share this passion for creating systems that actually make a difference. 🕵️‍♂️
 
 <hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
 
@@ -19,7 +21,7 @@ My github projects consisted all the efforts from data science proejcts to cyber
 ## LM Agentic Orchestration
 
 **🤖 Agentic Orchestration**  
-* **[Family Budget Management](https://github.com/Panbear1983/family-budget)**  
+* **[Family Budget Management](https://github.com/Panbear1983/Family_Budget_Agent)**  
 
 <hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
 
