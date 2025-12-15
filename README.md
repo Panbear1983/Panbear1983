@@ -10,9 +10,9 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 ## Cybersecurity Portfolio  
 
 **🎯 Threat Hunting**  
-* **[Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md)**
-* **[Papertrail Insider HR Tamper](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md)**  
-* **[RDP: Password Spray](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md)**  
+* **[Lurker Re-emerged](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/%28CTF%29%20Lurker.md)**
+* **[Papertrail Insider HR Tamper](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/%28CTF%29%20Papertrail.md)**  
+* **[RDP: Password Spray](https://github.com/Panbear1983/Cybersecurity_Projects/blob/main/Threat_Hunting_Projects/%28CTF%29%20RDP%20Password%20Spray.md)**  
 
 **⚔️ Vulnerability Management**  
 
