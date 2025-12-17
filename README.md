@@ -13,6 +13,7 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 * **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)**
 * **[Papertrail Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)**  
 * **[RDP: Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)**  
+* **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)**
 
 **⚔️ Vulnerability Management**  
 
