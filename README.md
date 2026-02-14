@@ -15,7 +15,7 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 * **[RDP: Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)**  
 * **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)**
 * **[Threat Hunt SAGA#1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)**
-* **[Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Cargo%20Hold.md>)**
+* **[Threat Hunt SAGA#2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)**
 
 **⚔️ Vulnerability Management**  
 
