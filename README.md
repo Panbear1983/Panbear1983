@@ -25,6 +25,7 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 
 **🤖 Agentic Orchestration**  
 * **[Family Budget Management](https://github.com/Panbear1983/Family_Budget_Agent)**  
+* **[Financial Reporting Bot](https://github.com/Panbear1983/Financial_Reporting_Bot)** - Automated finance news discovery and report generation pipeline with modular admin/report workflows  
 * **[Multi-Funtion SOC Agent Research (Powered by Mix LM)](https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/tree/main/openAI_Agentic_SOC_Analyst)** - AI-powered Security Operations Center analyst for automated threat detection, incident response, and security monitoring  
 
 <hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
