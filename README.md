@@ -33,6 +33,7 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 ## Background and Journey  
 **🔍︎ [Cybersecurity (Infrastructure Engineer)](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
 **🧠 [Machine_Learning_(Data Science)](https://github.com/Panbear1983/Machine_Learning_Projects)** <br>
+**📈 [Financial Reporting Bot (Automation + Data Signals)](https://github.com/Panbear1983/Financial_Reporting_Bot)** <br>
 **🎨 [Digital UI/UX (Marketing)](https://www.peterwpan.com)**
 
 <hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
