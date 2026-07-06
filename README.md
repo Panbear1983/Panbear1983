@@ -23,6 +23,7 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 
 ## Automation, Analytics & Applied AI
 
+- [Github_Push_Automator](https://github.com/Panbear1983/Github_Push_Automator) - Github_Push_Automator automates publishing local repositories to Panbear1983 on GitHub, creating README files when needed and updating the GitHub profile README under Automation, Analytics & Applied AI.
 **⚙️ Systems, Signals, and Workflow Automation**
 * **[Family Budget Management](https://github.com/Panbear1983/Family_Budget_Agent)** - Bilingual AI agent for automated family budget parsing, expense tracking, and financial analysis  
 * **[Gemini Token Status](https://github.com/Panbear1983/gemini-token-status)** - Real-time context window token usage monitor hook for Gemini CLI agentic workflows  
@@ -55,4 +56,4 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 
 
 [linkedin]: https://www.linkedin.com/in/peter-w-pan-49a961200/
-[portfolio]: https://www.peterwpan.com  
+[portfolio]: https://www.peterwpan.com
