@@ -26,7 +26,7 @@ From vulnerability scans to network attack simulations using Azure Sentinel and 
 **⚙️ Systems, Signals, and Workflow Automation**
 * **[Family Budget Management](https://github.com/Panbear1983/Family_Budget_Agent)** - Bilingual AI agent for automated family budget parsing, expense tracking, and financial analysis  
 * **[Gemini Token Status](https://github.com/Panbear1983/gemini-token-status)** - Real-time context window token usage monitor hook for Gemini CLI agentic workflows  
-* **[Financial Reporting Bot](https://github.com/Panbear1983/Financial_Reporting_Bot)** - Taiwan-market command center that turns TWSE/TPEX data, portfolio P/L, watchlist notes, AI commentary, and self-healing UTC schedules into Telegram-ready morning and closing intelligence  
+* **[Financial Reporting Bot](https://github.com/Panbear1983/Financial_Reporting_Bot)** - Taiwan-market command center that turns TWSE/TPEX data, portfolio P/L with one-step brokerage CSV imports, annotated watchlists, AI commentary, and self-healing UTC schedules into Telegram-ready morning and closing intelligence  
 * **[Alpaca Paper Trader](https://github.com/Panbear1983/Alpaca_Paper_Trader)** - Supervised Alpaca paper-trading cockpit with congressional trade-copy automation, Textual TUI controls, Telegram reporting, and archived portfolio report artifacts
 * **[Multi-Funtion SOC Agent Research (Powered by Mix LM)](https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/tree/main/openAI_Agentic_SOC_Analyst)** - AI-powered Security Operations Center analyst for automated threat detection, incident response, and security monitoring  
 
