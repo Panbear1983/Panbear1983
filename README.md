@@ -1,59 +1,54 @@
-# <a href="https://www.linkedin.com/in/peter-w-pan-49a961200/">Peter W Pan</a> Tech Rabbit Hole 🕳️ (IT & Cybersecurity 🔐 + Data Science Projects 📊 + Automation Orchastration 🤖)
- 
+# Peter W. Pan
 
-My GitHub projects span data science to cybersecurity, but honestly, I've been diving deep into vibe coding lately. There's something damn satisfying about leveraging Cursor to orchestrate automation agents that actually work in the real world. 
+**Security operations + automation | Threat hunting | Python, KQL, Microsoft Sentinel & Defender | Local AI | EN / 中文**
 
-From vulnerability scans to network attack simulations using Azure Sentinel and Microsoft Defender, I'm building systems that minimizing few clicks and hassles in my life - agents that parses and make decisions, not just follow scripts. Always eager to connect with others who share this passion for creating systems that actually make a difference. 🕵️‍♂️ 
+I work at the intersection of security operations, workflow automation, and applied AI. I build Python tools and reproducible labs for threat hunting, detection workflows, vulnerability management, and privacy-preserving local analysis.
 
-<hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
+My goal is practical security engineering: clear analyst workflows, explicit guardrails, measurable results, and automation that supports—rather than replaces—human judgment.
 
-## Cybersecurity Portfolio  
+## Current Focus
 
-**🎯 Threat Hunting**  
-* **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)**
-* **[Papertrail Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)**  
-* **[RDP: Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)**  
-* **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)**
-* **[Threat Hunt SAGA#1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)**
-* **[Threat Hunt SAGA#2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)**
+- Security operations and incident-triage workflows
+- Threat hunting with KQL, Microsoft Sentinel, and Microsoft Defender
+- Python automation for reporting, monitoring, and decision support
+- Vulnerability management and network-security labs
+- Local LLMs, agent isolation, and tool-use guardrails
 
-**⚔️ Vulnerability Management**  
+## Featured Security Work
 
-<hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
+### SOC Automation Research
 
-## Automation, Analytics & Applied AI
+- **[Multi-Function SOC Agent Research](https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research)** — Research prototypes for AI-assisted alert enrichment, threat detection, analyst workflows, and security monitoring.
+- **[Agentic SOC Analyst prototype](https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/tree/main/openAI_Agentic_SOC_Analyst)** — Experimental SOC workflow automation with analyst-oriented outputs and local/cloud model support.
 
-- [Github_Push_Automator](https://github.com/Panbear1983/Github_Push_Automator) - Github_Push_Automator automates publishing local repositories to Panbear1983 on GitHub, creating README files when needed and updating the GitHub profile README under Automation, Analytics & Applied AI.
-**⚙️ Systems, Signals, and Workflow Automation**
-* **[Family Budget Management](https://github.com/Panbear1983/Family_Budget_Agent)** - Bilingual AI agent for automated family budget parsing, expense tracking, and financial analysis  
-* **[Gemini Token Status](https://github.com/Panbear1983/gemini-token-status)** - Real-time context window token usage monitor hook for Gemini CLI agentic workflows  
-* **[Financial Reporting Bot](https://github.com/Panbear1983/Financial_Reporting_Bot)** - Taiwan-market command center that turns TWSE/TPEX data, portfolio P/L with one-step brokerage CSV imports, annotated watchlists, AI commentary, and self-healing UTC schedules into Telegram-ready morning and closing intelligence  
-* **[Alpaca Paper Trader](https://github.com/Panbear1983/Alpaca_Paper_Trader)** - Supervised Alpaca paper-trading cockpit with congressional trade-copy automation, Textual TUI controls, Telegram reporting, and archived portfolio report artifacts
-* **[Multi-Funtion SOC Agent Research (Powered by Mix LM)](https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/tree/main/openAI_Agentic_SOC_Analyst)** - AI-powered Security Operations Center analyst for automated threat detection, incident response, and security monitoring  
+### Threat Hunting Case Studies
 
-<hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
+The following are lab/CTF investigations, not production incident claims:
 
-## Background and Journey  
-**🔍︎ [Cybersecurity (Infrastructure Engineer)](https://github.com/Panbear1983/Cybersecurity_Projects)** <br>
-**🧠 [Machine_Learning_(Data Science)](https://github.com/Panbear1983/Machine_Learning_Projects)** <br>
-**📈 [Financial Reporting Bot (Automation + Data Signals)](https://github.com/Panbear1983/Financial_Reporting_Bot)** <br>
-**🎨 [Digital UI/UX (Marketing)](https://www.peterwpan.com)**
+- **[RDP Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)**
+- **[Papertrail: Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)**
+- **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)**
+- **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)**
+- **[Threat Hunt SAGA #1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)**
+- **[Threat Hunt SAGA #2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)**
 
-<hr style="height: 4px; background-color: grey; border: none; margin-top: 40px;">
+## Applied Automation
 
-## Certifications  
-**CompTIA [Security+ sy0-701](https://www.credly.com/earner/earned/badge/af63ab88-bb91-47c8-b390-0bbba3817702)** <br>
-**Google [Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)** <br>
-**CISCO [Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
+- **[Financial Reporting Bot](https://github.com/Panbear1983/Financial_Reporting_Bot)** — Scheduled Taiwan-market reporting pipeline with brokerage imports, technical signals, recovery controls, and Telegram delivery.
+- **[Alpaca Paper Trader](https://github.com/Panbear1983/Alpaca_Paper_Trader)** — Supervised paper-trading automation with disclosure research, Textual TUI controls, state management, and scheduled reporting.
+- **[GitHub Push Automator](https://github.com/Panbear1983/Github_Push_Automator)** — Repository publishing and profile-maintenance automation with review gates.
+- **[Gemini Token Status](https://github.com/Panbear1983/gemini-token-status)** — Context-window monitoring for Gemini CLI workflows.
 
+## Earlier Data and ML Work
 
-<hr/>
+- **[Machine Learning Projects](https://github.com/Panbear1983/Machine_Learning_Projects)** — Computer vision, recommendation, forecasting, and data-analysis projects.
 
-## 🤳 Connect With Me
+## Credentials
 
-[<img align="left" alt="Peter W Pan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Peter W Pan | Portfolio" width="22px" src="https://unpkg.com/feather-icons/dist/icons/feather.svg" />][portfolio]  
+- **[CompTIA Security+ (SY0-701)](https://www.credly.com/earner/earned/badge/af63ab88-bb91-47c8-b390-0bbba3817702)**
+- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/1MHZD401CMYA)**
+- **[Cisco Networking Basics](https://www.credly.com/badges/b328db9e-cc05-4e6f-a7eb-d8e5bd927552)**
 
+## Connect
 
-[linkedin]: https://www.linkedin.com/in/peter-w-pan-49a961200/
-[portfolio]: https://www.peterwpan.com
+- **[LinkedIn](https://www.linkedin.com/in/peter-w-pan-49a961200/)**
