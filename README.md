@@ -34,6 +34,7 @@ The following are lab/CTF investigations, not production incident claims:
 
 ## Applied Automation
 
+- **[Kash Real Estate Intelligence Pipeline](https://github.com/Panbear1983/Kash_Realestate_Property_Database)** — Local-first property research platform with provider ingestion, SQLite entity resolution, flood and financial enrichment, Codex-assisted ranking, a Textual dashboard, and scheduled change digests.
 - **[Financial Reporting Bot](https://github.com/Panbear1983/Financial_Reporting_Bot)** — Scheduled Taiwan-market reporting pipeline with brokerage imports, technical signals, recovery controls, and Telegram delivery.
 - **[Alpaca Paper Trader](https://github.com/Panbear1983/Alpaca_Paper_Trader)** — Supervised paper-trading automation with disclosure research, Textual TUI controls, state management, and scheduled reporting.
 - **[GitHub Push Automator](https://github.com/Panbear1983/Github_Push_Automator)** — Repository publishing and profile-maintenance automation with review gates.
