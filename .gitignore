@@ -1,3 +1,6 @@
 .DS_Store
 .vscode/
 .snapshots/
+
+# Local-only: resume source files are not published on the public profile
+resume/
