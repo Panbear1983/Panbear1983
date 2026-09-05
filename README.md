@@ -25,12 +25,13 @@ My goal is practical security engineering: clear analyst workflows, explicit gua
 
 The following are lab/CTF investigations, not production incident claims:
 
-- **[RDP Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)**
-- **[Papertrail: Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)**
-- **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)**
-- **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)**
-- **[Threat Hunt SAGA #1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)**
-- **[Threat Hunt SAGA #2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)**
+- **[RDP Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)** — a password spray on an exposed RDP endpoint, then a scheduled-task foothold, a Defender exclusion, local staging and an HTTP exfiltration attempt.
+- **[Papertrail: Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)** — an insider hiding behind fake HR automation to alter performance records, dump credentials and bury the audit trail.
+- **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)** — a multi-phase PowerShell and LOLBin intrusion that stole privileged credentials, moved laterally and exfiltrated financial data through cloud services.
+- **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)** — a "remote support" session that was really an intrusion: foothold, defense tampering, reconnaissance, exfiltration attempts and planted narrative artifacts.
+- **[Threat Hunt SAGA #1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)** — the first Azuki breach — compromised RDP credentials, Defender evasion, Mimikatz credential theft and exfiltration over Discord, traced from a leaked-contract tip-off.
+- **[Threat Hunt SAGA #2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)** — the attacker's return 72 hours later — RDP pivot to the file server, hidden staging, LSASS dumping, cloud exfiltration and Run-key persistence using only built-in tools.
+- **[Threat Hunt SAGA #3: Bridge Takeover](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%233%3A%20Bridge%20Takeover.md>)** — the third act — an RDP pivot to the CEO's admin PC, a disguised Meterpreter payload with named-pipe C2, a Base64-created backdoor admin, KeePass and browser credential theft, and eight archives exfiltrated to gofile.io.
 
 ## Applied Automation
 
