@@ -32,6 +32,7 @@ The following are lab/CTF investigations, not production incident claims:
 - **[Threat Hunt SAGA #1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)** — the first Azuki breach — compromised RDP credentials, Defender evasion, Mimikatz credential theft and exfiltration over Discord, traced from a leaked-contract tip-off.
 - **[Threat Hunt SAGA #2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)** — the attacker's return 72 hours later — RDP pivot to the file server, hidden staging, LSASS dumping, cloud exfiltration and Run-key persistence using only built-in tools.
 - **[Threat Hunt SAGA #3: Bridge Takeover](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%233%3A%20Bridge%20Takeover.md>)** — the third act — an RDP pivot to the CEO's admin PC, a disguised Meterpreter payload with named-pipe C2, a Base64-created backdoor admin, KeePass and browser credential theft, and eight archives exfiltrated to gofile.io.
+- **[Virtual Machine Compromise (Dead In The Water)](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/%28CTF%29%20Virtual%20Machine%20Compromise%20%28Dead%20In%20The%20Water%29.md>)** — see the write-up for the full investigation.
 
 ## Applied Automation
 
