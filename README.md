@@ -1,3 +1,4 @@
+<!-- ghrp:manual-start -->
 # Peter W. Pan
 
 **Security operations + automation | Threat hunting | Python, KQL, Microsoft Sentinel & Defender | Local AI | EN / 中文**
@@ -13,6 +14,7 @@ My goal is practical security engineering: clear analyst workflows, explicit gua
 - Python automation for reporting, monitoring, and decision support
 - Vulnerability management and network-security labs
 - Local LLMs, agent isolation, and tool-use guardrails
+<!-- ghrp:manual-end -->
 
 ## Featured Security Work
 
@@ -25,14 +27,12 @@ My goal is practical security engineering: clear analyst workflows, explicit gua
 
 The following are lab/CTF investigations, not production incident claims:
 
-- **[RDP Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)** — a password spray on an exposed RDP endpoint, then a scheduled-task foothold, a Defender exclusion, local staging and an HTTP exfiltration attempt.
-- **[Papertrail: Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)** — an insider hiding behind fake HR automation to alter performance records, dump credentials and bury the audit trail.
-- **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)** — a multi-phase PowerShell and LOLBin intrusion that stole privileged credentials, moved laterally and exfiltrated financial data through cloud services.
-- **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)** — a "remote support" session that was really an intrusion: foothold, defense tampering, reconnaissance, exfiltration attempts and planted narrative artifacts.
-- **[Threat Hunt SAGA #1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)** — the first Azuki breach — compromised RDP credentials, Defender evasion, Mimikatz credential theft and exfiltration over Discord, traced from a leaked-contract tip-off.
-- **[Threat Hunt SAGA #2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)** — the attacker's return 72 hours later — RDP pivot to the file server, hidden staging, LSASS dumping, cloud exfiltration and Run-key persistence using only built-in tools.
-- **[Threat Hunt SAGA #3: Bridge Takeover](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%233%3A%20Bridge%20Takeover.md>)** — the third act — an RDP pivot to the CEO's admin PC, a disguised Meterpreter payload with named-pipe C2, a Base64-created backdoor admin, KeePass and browser credential theft, and eight archives exfiltrated to gofile.io.
-- **[Threat Hunt SAGA #4: Dead In The Water](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%234%3A%20Dead%20In%20The%20Water.md>)** — the ransomware finale — SilentLynx wipes the Linux backup server, then spreads to the Windows hosts with PsExec to stop backups, delete shadow copies, disable recovery and drop its ransom note.
+- **[RDP Password Spray](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20RDP%20Password%20Spray.md>)**
+- **[Papertrail: Insider HR Tamper](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Papertrail.md>)**
+- **[Lurker Re-emerged](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Lurker.md>)**
+- **[Assistance](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Assistance.md>)**
+- **[Threat Hunt SAGA #1: Port of Entry](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%231%3A%20Port%20of%20Entry.md>)**
+- **[Threat Hunt SAGA #2: Cargo Hold](<https://github.com/Panbear1983/Multi-Funtion_SOC_Agent_Research/blob/main/Threat_Hunting_Projects/(CTF)%20Threat%20Hunt%20SAGA%232%3A%20Cargo%20Hold.md>)**
 
 ## Applied Automation
 
@@ -41,6 +41,7 @@ The following are lab/CTF investigations, not production incident claims:
 - **[Alpaca Paper Trader](https://github.com/Panbear1983/Alpaca_Paper_Trader)** — Supervised paper-trading automation with disclosure research, Textual TUI controls, state management, and scheduled reporting.
 - **[Github Repo Push](https://github.com/Panbear1983/Github_Repo_Push)** — Registry-driven repository push manager with ignore-pattern staging, secret-scan guardrails, profile README automation, and a Textual dashboard.
 - **[Gemini Token Status](https://github.com/Panbear1983/gemini-token-status)** — Context-window monitoring for Gemini CLI workflows.
+- [Investment_Strategy_Research_2026](https://github.com/Panbear1983/Investment_Strategy_Research_2026) — Python workspace for investment strategy research, with a local investment dataset, operations notes, planning docs for a daily investment digest, and a bot deployment config.
 
 ## Earlier Data and ML Work
 
