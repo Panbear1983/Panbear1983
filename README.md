@@ -41,7 +41,7 @@ The following are lab/CTF investigations, not production incident claims:
 - **[Alpaca Paper Trader](https://github.com/Panbear1983/Alpaca_Paper_Trader)** — Supervised paper-trading automation with disclosure research, Textual TUI controls, state management, and scheduled reporting.
 - **[Github Repo Push](https://github.com/Panbear1983/Github_Repo_Push)** — Registry-driven repository push manager with ignore-pattern staging, secret-scan guardrails, profile README automation, and a Textual dashboard.
 - **[Gemini Token Status](https://github.com/Panbear1983/gemini-token-status)** — Context-window monitoring for Gemini CLI workflows.
-- [Investment_Strategy_Research_2026](https://github.com/Panbear1983/Investment_Strategy_Research_2026) — Python workspace for investment strategy research, with a local investment dataset, operations notes, planning docs for a daily investment digest, and a bot deployment config.
+- [Investment_Strategy_Research_2026](https://github.com/Panbear1983/Investment_Strategy_Research_2026) — Self-running research pipeline that keeps a 100,000-company investment database current, rotating across Gemini, Claude, and Codex with per-provider daily budgets and fallback, scheduled maintenance and deep-research batches, Telegram digests and a Q&A bot, and a terminal dashboard for loop status and pause/resume.
 
 ## Earlier Data and ML Work
 
